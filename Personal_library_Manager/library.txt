@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Python",
+        "author": "Taha",
+        "year": "2000",
+        "genre": "T-series",
+        "read": false
+    },
+    {
+        "title": "Typescript",
+        "author": "Hina",
+        "year": "2002",
+        "genre": "H-series",
+        "read": true
+    }
+]
